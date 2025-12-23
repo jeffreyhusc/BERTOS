@@ -1,13 +1,13 @@
 # BERTOS
 BERTOS: transformer language model for oxidation state prediction
 
-Nihang Fu, <b>Jeffrey Hu</b>, Ying Feng, Jianjun Hu* <br>
+Nihang Fu, <b>Jeffrey Hu<sup>2</sup></b>, Ying Feng, Jianjun Hu* <br>
 
 Machine Learning and Evolution Laboratory <br>
 Department of Computer Science and Engineering <br>
 University of South Carolina
 
-University of Illinois Urbana-Champaign <br>
+<sup>2</sup>University of Illinois Urbana-Champaign <br>
 Department of Material Science and Engineering <br>
 
 ### Cite our paper:
