@@ -7,6 +7,29 @@ Machine Learning and Evolution Laboratory <br>
 Department of computer science and Engineering <br>
 University of South Carolina
 
+### Cite our paper:
+Fu, N., Hu, Jeffrey., Feng, Y., Morrison, G., Loye, H.C.Z. and Hu, J., 2023.
+Composition based oxidation state prediction of materials using deep learn-
+ing language models. Advanced Science, 10(28), p.2301011. (IF:14.2) [PDF](https://advanced.onlinelibrary.wiley.com/doi/am-pdf/10.1002/advs.202301011)
+
+Abstract: Oxidation states (OS) are the charges on atoms due to electrons gained or
+lost upon applying an ionic approximation to their bonds. As a fundamental
+property, OS has been widely used in charge-neutrality verification, crystal
+structure determination, and reaction estimation. Currently, only heuristic
+rules exist for guessing the oxidation states of a given compound with many
+exceptions. Recent work has developed machine learning models based on
+heuristic structural features for predicting the oxidation states of metal ions.
+However, composition-based oxidation state prediction still remains elusive
+so far, which has significant implications for the discovery of new materials
+for which the structures have not been determined. This work proposes a
+novel deep learning-based BERT transformer language model BERTOS for
+predicting the oxidation states for all elements of inorganic compounds given
+only their chemical composition. This model achieves 96.82% accuracy for
+all-element oxidation states prediction benchmarked on the cleaned ICSD
+dataset and achieves 97.61% accuracy for oxide materials. It is also
+demonstrated how it can be used to conduct large-scale screening of
+hypothetical material compositions for materials discovery.
+
 ## Table of Contents
 - [Installations](#Installations)
 
